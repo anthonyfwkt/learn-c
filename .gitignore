@@ -1,0 +1,32 @@
+# Object files
+*.o
+*.obj
+*.elf
+*.so
+*.dll
+*.a
+*.lib
+*.dylib
+
+# Executables
+*.exe
+*.out
+*.app
+
+# Debug files
+*.dSYM/
+*.gcda
+*.gcno
+
+# Build directories
+build/
+bin/
+lib/
+
+# IDE
+.idea/
+.vscode/
+.DS_Store
+
+# Others
+*.log
